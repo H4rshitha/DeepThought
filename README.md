@@ -7,7 +7,7 @@ A deterministic end-of-day reflection tool that walks an employee through a stru
 ```
 /tree/
   reflection-tree.json       ← Part A: the tree data (32 nodes, 216 unique paths)
-  tree-diagram.md            ← Part A: visual Mermaid diagram
+  tree-diagram.svg            ← Part A: visual Mermaid diagram
 
 /agent/                      ← Part B: runnable web agent
   index.html                 ← Entry point
@@ -121,5 +121,5 @@ Both personas answer 9 questions and visit 22 nodes, but receive completely diff
 1. **No moralizing.** "Self-focused" isn't bad. "Transcendent" isn't good. The tree names patterns — it doesn't grade them.
 2. **Options must be honest.** Every option is something a real person would genuinely say. No straw men, no obvious "correct answers."
 3. **The tree is the product.** The JSON file is the deliverable. The agent is a rendering layer. Another developer could build a CLI, mobile app, or Slack bot from the same data file.
-4. **Signals, not scores.** The tree tallies signals and picks the dominant pole — it doesn't compute a numerical score. There's no "you scored 7/10 on agency."
+4. **Signals, not scores.** The tree tallies signals and picks the dominant pole — it doesn't compute a numerical score.
 5. **Conversation, not survey.** Bridges connect the axes narratively. Reflections reference what was surfaced. The session should feel like a conversation with a thoughtful colleague, not a questionnaire.
