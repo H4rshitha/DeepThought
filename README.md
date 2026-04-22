@@ -74,6 +74,9 @@ default      — fallback route (always matches)
 
 The web agent loads `reflection-tree.json` via `fetch()`, so it must be served over HTTP (not opened as a file).
 
+## Live Demo
+Link - https://h4rshitha.github.io/DeepThought/agent/
+
 ### Quick Start
 
 ```bash
