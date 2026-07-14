@@ -24,7 +24,7 @@ README.md                    ← This file
 
 ## The Three Axes
 
-The tree guides reflection across three psychological axes, in sequence:
+The tree guides reflection across three psychological axes in sequence:
 
 | # | Axis | Spectrum | Psychology |
 |---|------|----------|------------|
