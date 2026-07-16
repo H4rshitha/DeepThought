@@ -1,6 +1,6 @@
 # The Daily Reflection Tree
 
-A deterministic end-of-day reflection tool that walks an employee through a structured conversation using a decision tree. No LLM. No free text. No randomness. Every path is fully deterministic — same answers, same conversation, every time.
+A deterministic end-of-day reflection tool that walks an employee through a structured conversation using a decision tree. No LLM. No free text. No randomness. Every path is fully deterministic same answers, same conversation, every time.
 
 ## Project Structure
 
